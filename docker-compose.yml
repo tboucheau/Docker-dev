@@ -4,7 +4,7 @@ services:
   db:
     image: postgres
   web:
-    build: .
+    image: tboucheau/containerdev_web
     command: bundle exec rails s -p 80 -b '0.0.0.0'
     volumes:
       - .:/myapp
