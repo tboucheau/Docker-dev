@@ -1,7 +1,24 @@
-## Containers for dev on rails with postgres database
+# README
 
-Dockerfile : This file is for building a container app with rails and a container db with postgres for local dev without installing anything on your computer
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Dockercompose.yml : This file is for linking the two containers together
+Things you may want to cover:
 
-./ : all reps are default rails app folders
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
